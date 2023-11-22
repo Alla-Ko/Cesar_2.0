@@ -1,0 +1,13 @@
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\bin\Debug\WindowsFormsApp_Cesar.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\bin\Debug\WindowsFormsApp_Cesar.exe
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\bin\Debug\WindowsFormsApp_Cesar.pdb
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.exe
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.pdb
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.Start.resources
+C:\Alla\C#_proj\WindowsFormsApp_Cesar\obj\Debug\WindowsFormsApp_Cesar.Form2.resources
